@@ -1,0 +1,33 @@
+.test-green {
+  color: green;
+}
+
+.bg-lightgreen {
+  background-color: lightgreen;
+}
+
+.bg-blue {
+  background-color: dodgerblue;
+}
+
+.h-100px {
+  height: 100px;
+}
+
+.h-30px {
+  height: 30px;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+#box-model {
+  border: 1px solid red #afa63d;
+  margin: 50px;
+  padding: 10px 5px 15px 20px;   /* 1 top 2 right 3 button 4 left */
+}

@@ -1,0 +1,43 @@
+.bg-blue  {
+  background-color: dodgerblue;
+}
+
+.bg-gray  {
+  background-color: #ccc;
+}
+
+.h-400px {
+  height: 400px;
+}
+
+.px-50px {
+  padding: 0px 50px;
+}
+
+.h-50px {
+  height: 50px;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.w-20 {
+  width: 20%;
+}
+
+.bg-lightgreen{
+  background-color: lightgreen;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.mx-2 {
+  margin: 0px 2%  ;
+}
+
+.h-70 {
+  height: 70%;
+}

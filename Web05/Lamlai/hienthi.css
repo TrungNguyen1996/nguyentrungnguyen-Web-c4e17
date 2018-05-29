@@ -1,0 +1,32 @@
+.xanhlacay {
+  background-color: lightgreen;
+  height: 500px
+}
+.d-inline-block{
+  display: inline-block;
+}
+.xanhdatroi {
+  border: 1px solid black;
+  background-color: blue;
+  height: 80%;
+  width: 23%
+}
+
+.padding-xanhlacay{
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 95px;
+}
+.dochot {
+  padding-top: 0px;
+  background-color: red;
+  height: 50%;
+  width: 100%;
+}
+
+.padding-cha{
+  padding-top: 95px;
+  padding-right: 95px;
+  padding-bottom: 95px;
+  padding-left: 95px;

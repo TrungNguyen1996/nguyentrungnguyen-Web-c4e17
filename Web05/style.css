@@ -1,0 +1,35 @@
+.text-green {
+  color: green;
+}
+
+.bg-lightgreen {
+  background-color: lightgreen;
+}
+
+.bg-blue {
+  background-color: dodgerblue;
+}
+
+.h-100px {
+  height:100px;
+}
+
+.h-30px {
+  height: 30px;
+}
+
+.w-30 {
+  width:30%
+  /* Để thay đỏi theo độ rộng của trình duyệt */
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+#box-model {
+  border: 1px solid #afa63d;
+  margin: 50px 20px;
+  padding: 10px 5px 15px 20px
+}
+ /* viết 1 cả bốn phía = nhau, viết 2 trên dưới tr p = nhau viết 4 */rieng} */
